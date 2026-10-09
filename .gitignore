@@ -1,0 +1,6 @@
+@"
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+"@ | Set-Content -Encoding utf8 .gitignore
