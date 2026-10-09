@@ -45,12 +45,20 @@ The dataset contains retail transaction records with order dates, regions, state
 * Office Supplies generated approximately $122,491 in profit.
 * Furniture had the lowest category profit margin, at approximately 2.49%.
 
+<img width="1350" height="750" alt="sales_by_category" src="https://github.com/user-attachments/assets/ce331793-0a0d-4bab-80ac-6b7ca8451770" />
+<img width="1350" height="750" alt="profit_by_category" src="https://github.com/user-attachments/assets/83b5d8a2-6734-4e6b-8aad-33b3bc2c0329" />
+
+
+
 ### Subcategory Performance
 
 * Copiers generated the highest total profit, at approximately $55,618.
 * Phones generated approximately $44,516 in profit.
 * Tables recorded a loss of approximately $17,725.
 * Bookcases recorded a loss of approximately $3,473.
+
+<img width="1500" height="1050" alt="profit_by_subcategory" src="https://github.com/user-attachments/assets/b4b2a461-8f5f-4663-9510-77df9fe81d4c" />
+
 
 ### Monthly Performance
 
@@ -59,11 +67,19 @@ The dataset contains retail transaction records with order dates, regions, state
 * December 2016 generated the highest monthly profit, at approximately $17,885.
 * January 2015 recorded the lowest monthly profit, at approximately -$3,281.
 
+<img width="1800" height="750" alt="monthly_sales_trend" src="https://github.com/user-attachments/assets/9aa3ce72-c5e0-473a-9016-7f14f7b2af9b" />
+<img width="1800" height="750" alt="monthly_profit_trend" src="https://github.com/user-attachments/assets/6e91dc0d-ec24-4f7f-8b22-b6176212cdfb" />
+
+
+
 ### Regional Performance
 
 * West led in sales and profit, generating approximately $725,458 in sales and $108,418 in profit.
 * West also had the highest regional profit margin, at approximately 14.94%.
 * Central had the lowest regional profit margin, at approximately 7.92%, making it a useful area for further investigation.
+
+<img width="1950" height="750" alt="regional_performance" src="https://github.com/user-attachments/assets/a95f3123-6d2d-4db4-be18-eb222b4770f0" />
+
 
 ## Project Workflow
 
